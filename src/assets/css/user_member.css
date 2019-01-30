@@ -1,0 +1,162 @@
+.vip_rank,.my_purse{
+    margin:10px 0;
+    background: #fff;
+}
+.vip_rank_title,.my_purse_title{
+    padding: 0 15px;
+}
+.vip_rank_title_link,.my_purse_title_link{
+    display: block;
+    width:100%;
+    height:50px;
+    line-height: 50px;
+    padding-right: 15px;
+    background: url("../images/right.png") no-repeat right 16px;
+    background-size: 10px 14px;
+    font-size: 17px;
+    font-weight: 500;
+    border-bottom:1px solid #EEEEEE;
+    color: #444444;
+}
+.vip_rank_title_link .rf{
+    color: #8E8E93;
+}
+
+.vip_rank_content,.my_purse_content{
+    width:100%;
+    overflow: hidden;
+}
+.vip_rank_content a,.my_purse_content a{
+    display: block;
+    float: left;
+    width:33.3%;
+    padding: 10px;
+    color: #787878;
+    text-align: center;
+}
+.vip_rank_content a p,.my_purse_content a p{
+    padding: 5px 0;
+}
+.vip_rank_title,.my_purse_title{
+    padding: 0 15px;
+}
+.vip_rank_title_link,.my_purse_title_link{
+    display: block;
+    width:100%;
+    height:50px;
+    line-height: 50px;
+    padding-right: 15px;
+    background: url("../images/right.png") no-repeat right 16px;
+    background-size: 10px 14px;
+    font-size: 17px;
+    font-weight: 500;
+    border-bottom:1px solid #EEEEEE;
+    color: #444444;
+}
+.vip_rank_title_link .rf{
+    color: #8E8E93;
+}
+.detail_lf{
+    width: 100%;
+    height: 124px;
+    border-bottom: 3px solid #eeeeee ;
+    position: relative;
+}
+.img_lf{
+    margin-left: 22px;
+    display: inline-block;
+    margin-top: 23px;
+    width:75px;
+}
+.img_lf img{
+    width:100%;
+}
+
+.vip_rank,.my_purse{
+    margin:10px 0;
+    background: #fff;
+}
+.vip_rank_title,.my_purse_title{
+    padding: 0 15px;
+}
+.vip_rank_title_link,.my_purse_title_link{
+    display: block;
+    width:100%;
+    height:50px;
+    line-height: 50px;
+    padding-right: 15px;
+    background: url("../images/right.png") no-repeat right 16px;
+    background-size: 10px 14px;
+    font-size: 17px;
+    font-weight: 500;
+    border-bottom:1px solid #EEEEEE;
+    color: #444444;
+}
+.vip_rank_title_link .rf{
+    color: #8E8E93;
+}
+
+.vip_rank_content,.my_purse_content{
+    width:100%;
+    overflow: hidden;
+}
+.vip_rank_content a,.my_purse_content a{
+    display: block;
+    float: left;
+    width:33.3%;
+    padding: 10px;
+    color: #787878;
+    text-align: center;
+}
+.vip_rank_content a p,.my_purse_content a p{
+    padding: 5px 0;
+}
+.my_purse_title_link b{
+    display: inline-block;
+    width:29px;
+    height:29px;
+    background: url("../images/icon_wallets.png") no-repeat;
+    background-size: 29px 29px;
+    position: relative;
+    top:8px;
+}
+
+.item_list{
+    background: #fff;
+    margin-bottom: 65px;
+}
+
+.item_list{
+    background: #fff;
+    margin-bottom: 65px;
+}
+.item{
+    padding-left: 15px;
+    height:45px;
+    line-height: 45px;
+}
+.item a{
+    display: block;
+    padding-left: 45px;
+}
+.item_order_link{
+    background: url("../images/icon_order.png") no-repeat 0 center;
+    background-size: 30px 30px;
+}
+.item_content{
+    color: #000000;
+    background: url("../images/right.png") no-repeat calc(100% - 15px)  center;
+    background-size: 10px 14px;
+    padding-right: 30px;
+}
+div.item_content{
+    border-bottom: 1px solid #EEEEEE;
+}
+.item_content span{
+    float: right;
+    color: #8E8E93;
+}
+.item_er_link{
+    background: url("../images/icon_qrcode_green.png") no-repeat 0 center;
+    background-size: 30px 30px;
+}

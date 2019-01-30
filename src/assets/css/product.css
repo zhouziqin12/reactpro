@@ -1,0 +1,6 @@
+.product_main{overflow: hidden ;}
+.product_main .left,.product_main .right{
+    overflow-y: scroll;
+    background: #EFEFF4;
+    float: left;
+}

@@ -1,0 +1,121 @@
+.content .product .look{
+    overflow: hidden;
+    height:50px;
+    background: #F0F0F0;
+}
+.content .product .look .lf{
+    width:40%;
+    padding-left: 30px;
+}
+.content .product .look .lf img{
+    display: inline-block;
+    width:80px;
+    height:50px;
+}
+.content .product .look .rf{
+    width:60%;
+    text-align: right;
+}
+.content .product .look .rf{
+    display: block;
+    color: #7D7D7D;
+    padding-right: 10px;
+    padding-top: 7px;
+}
+.content .product .look .rf p:first-child{
+    font-size: 16px;
+    font-weight: 600;
+    color: #696969;
+    font-family: "Microsoft yahei",Arial;
+}
+.content .product .look .rf a p:last-child span{
+    letter-spacing: 5px;
+}
+.content .product .show ul{
+    background: #fff;
+    padding: 10px 0 5px;
+    overflow: hidden;
+}
+.content .product .show ul li{
+    float: left;
+    overflow: hidden;
+    width:49%;
+    background: #F8F8F8;
+    padding: 5px 0;
+    margin-bottom: 6px;
+}
+.content .product .show ul li:nth-of-type(odd){
+    margin-right: 2%;
+}
+.content .product .show ul li .lf{
+    height:50px;
+    width:50%;
+    text-align: right;
+    padding-right: 10px;
+}
+.content .product .show ul li .lf img{
+    display: inline-block;
+    width:50px;
+    height:50px;
+}
+.content .product .show ul li .rf{
+    height:50px;
+    width:50%;
+    text-align: left;
+}
+.content .product .show ul li .rf p{
+    font-weight: 600;
+    margin-top: 7px;
+    margin-bottom: 3px;
+}
+.content .product .show ul li .rf p a{
+    color: #323232;
+}
+a.into{
+    color: #fff;
+    background: #ED3037;
+    padding:2px 5px;
+    border-radius: 2px;
+    font-size: 12px;
+}
+
+.hot_sale .hot_commodity{
+    color: #323232;
+    background: #F0F0F0;
+    font-weight: 600;
+    padding:3px 0 3px 10px;
+}
+.hot_sale .hot_sale_show{overflow: hidden}
+.hot_sale .hot_sale_show .hot_product{
+    font-size: 12px;
+    float: left;
+    width:50%;
+    text-align: center;
+    padding: 0 2%;
+    margin-bottom: 5px;
+}
+.hot_sale .hot_sale_show .hot_product img{
+    display: block;
+    width:90px;
+    height:90px;
+    margin: 7px auto;
+}
+.hot_sale .hot_sale_show .hot_product .introduce{
+    height:50px;
+    padding: 1px 0;
+    overflow: hidden;
+}
+.hot_sale .hot_sale_show .hot_product .price{
+    font-size: 14px;
+    color: #EE4147;
+    font-weight: 600;
+    font-family: "Microsoft yahei",Arial;
+}
+.bg_img{
+    display: block;
+    width:100%;
+}
+.bg_img img{
+    width:100%;
+    height:145px;
+}

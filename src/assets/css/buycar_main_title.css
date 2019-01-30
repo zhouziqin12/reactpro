@@ -1,0 +1,13 @@
+.buycar_main_title{
+    height:40px;
+    line-height: 40px;
+    border-top: 1px solid #EEEEEE;
+    background: #fff url("../images/kongbai.png") no-repeat 10px center;
+    background-size: 20px 20px;
+    padding-left: 38px;
+}
+
+.buycar_main_title.select{
+    background: #fff url("../images/xuanzhong.png") no-repeat 10px center;
+    background-size: 20px 20px;
+}

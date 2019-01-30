@@ -1,0 +1,19 @@
+/****************left*/
+.product_main .left{
+    width:26%;
+ 
+
+}
+.product_main ul{
+    background: #fff;
+}
+.product_main ul li{
+    width:100%;
+    padding: 10px 0 10px 10px;
+    border-bottom: 1px solid #EEEEEE;
+
+}
+.product_main ul li.current{
+    color: #ED2F38;
+    background: #EFEFF4;
+}

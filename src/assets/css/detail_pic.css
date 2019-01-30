@@ -1,0 +1,16 @@
+.img_word{
+    background: #fff;
+    padding: 0 10px;
+    margin-bottom:60px;
+}
+.img_word p{
+    padding: 10px 0 10px 25px;
+    margin-bottom: 10px;
+    border-bottom:1px solid #E1E1E1;
+    background: url("../images/img_word.png") no-repeat 0 center;
+    background-size: 17px 16px;
+}
+.img_word img{
+    display: block;
+    width:100%;
+}

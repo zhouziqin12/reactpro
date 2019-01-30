@@ -1,0 +1,42 @@
+
+.detail_data_lf{float: left}
+.detail_data_rf{float: right}
+.detail_data_data{
+    padding: 0 10px;
+    background: #fff;
+   
+}
+.detail_data_introduce{
+    color: #333333;
+    padding-top: 10px;
+}
+.detail_data_price{
+    color: #DE0707;
+    font-size: 16px;
+    font-weight:600;
+    margin: 7px 0 3px;
+}
+.detail_data_scj{
+    color: #999999;
+    margin-bottom: 10px;
+}
+.detail_data_scj span{
+    text-decoration: line-through;
+    font-family: "Microsoft yahei",Arial;
+}
+.detail_data_send{
+    border-top:1px solid #E1E1E1;
+    padding:10px 5px;
+    overflow: hidden;
+    color: #8E8E93;
+}
+.detail_data_send .lf{
+    background: url("../images/menoy.png") no-repeat 0 center;
+    background-size: 16px 16px;
+    padding-left: 20px;
+}
+.detail_data_send .rf{
+    background: url("../images/send_cart.png") no-repeat 0 center;
+    background-size: 20px 16px;
+    padding-left: 25px;
+}

@@ -1,0 +1,11 @@
+.day{
+    overflow: hidden;
+}
+.day .day_left,.day .day_right{
+    width:50%;
+}
+.day .day_left img,.day .day_right img{
+    display: block;
+    width:100%;
+    height:74px;
+}

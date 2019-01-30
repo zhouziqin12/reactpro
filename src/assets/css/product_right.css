@@ -1,0 +1,40 @@
+/***************right*/
+.product_main .right{
+    width:74%;
+    padding: 0 5px;
+    transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+}
+.product_main .right .category .title{
+    height:37px;
+    line-height: 37px;
+}
+.show{
+    overflow: hidden;
+}
+.show .product{
+    display: inline-block;
+    width:32%;
+    background: #fff;
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+.show .product .introduce{
+    height:20px;
+    line-height: 24px;
+    overflow: hidden;
+}
+.show .product img{
+    display: block;
+    width:90%;
+    margin: 5px auto 7px;
+}
+.right_content{display: none}
+.link{
+    color: #000000;
+}
+
+.show .product:not(:last-child){
+    margin-right: 1%;
+}

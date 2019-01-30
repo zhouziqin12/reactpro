@@ -1,0 +1,92 @@
+[
+    {"id":1 , "leibie":[
+        {"title":"热门分类","naifen":"手机", "tuiche":"电脑","yifu":"家居","muyin":"房产","shipin":"母婴","kuzi":"食品" , "img1":"/images/product_list01.jpg","img2":"/images/product_list02.jpg","img3":"/images/product_list03.jpg","img4":"/images/product_list04.jpg","img5":"/images/product_list05.jpg","img6":"/images/product_list06.jpg"}
+    ]},
+    {"id":2 , "leibie":[
+        {"title":"手机","naifen":"手机通讯", "tuiche":"运营商","yifu":"手机配件","kuzi":"摄影摄像","img1":"/images/product_list07.jpg","img2":"/images/product_list08.jpg","img3":"/images/product_list09.jpg","img4":"/images/product_list10.jpg"},
+        {"title":"电脑","naifen":"电脑整机", "tuiche":"电脑配件","yifu":"外设产品","kuzi":"游戏设备","muyin":"定制衣柜","img1":"/images/product_list11.jpg","img2":"/images/product_list12.jpg","img3":"/images/product_list13.jpg","img4":"/images/product_list14.jpg"}
+    ]},
+    {"id":3 , "leibie":[
+        {"title":"家居","naifen":"水具酒具", "tuiche":"烹饪锅具","yifu":"保鲜盒","kuzi":"炒锅餐具","img1":"/images/product_list15.jpg","img2":"/images/product_list16.jpg","img3":"/images/product_list17.jpg","img4":"/images/product_list18.jpg"},
+        {"title":"家具","naifen":"客厅", "tuiche":"卧室","yifu":"餐厅","kuzi":"书房","img1":"/images/product_list19.jpg","img2":"/images/product_list20.jpg","img3":"/images/product_list21.jpg","img4":"/images/product_list22.jpg"},
+        {"title":"家装","naifen":"装饰字画", "tuiche":"装饰摆件","yifu":"电视背景墙","kuzi":"创意家居","img1":"/images/product_list23.jpg","img2":"/images/product_list24.jpg","img3":"/images/product_list25.jpg","img4":"/images/product_list26.jpg"},
+        {"title":"厨具","naifen":"定制衣柜", "tuiche":"门","yifu":"窗","kuzi":"门帘","muyin":"房产","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg","img5":"/images/product_list13.jpg"}
+    ]},
+    {"id":4 , "leibie":[
+        {"title":"女装","naifen":"当季热卖", "tuiche":"新品推荐","yifu":"连衣裙","kuzi":"套装","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg"},
+        {"title":"男装","naifen":"真皮皮衣", "tuiche":"棉服","yifu":"羽绒服","kuzi":"POLO衫","muyin":"房产","img1":"/images/product_list19.jpg","img2":"/images/product_list20.jpg","img3":"/images/product_list21.jpg","img4":"/images/product_list22.jpg"},
+        {"title":"童装","naifen":"运动服", "tuiche":"套装","yifu":"卫衣","kuzi":"裤子","img1":"/images/product_list15.jpg","img2":"/images/product_list16.jpg","img3":"/images/product_list17.jpg","img4":"/images/product_list18.jpg"},
+        {"title":"内衣","naifen":"文胸睡衣", "tuiche":"文胸套装","yifu":"背心","kuzi":"裤吊带","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg"}
+    ]},
+    {"id":5 , "leibie":[
+        {"title":"家居","naifen":"水具酒具", "tuiche":"烹饪锅具","yifu":"保鲜盒","kuzi":"炒锅餐具","img1":"/images/product_list15.jpg","img2":"/images/product_list16.jpg","img3":"/images/product_list17.jpg","img4":"/images/product_list18.jpg"},
+        {"title":"家具","naifen":"客厅", "tuiche":"卧室","yifu":"餐厅","kuzi":"书房","img1":"/images/product_list19.jpg","img2":"/images/product_list20.jpg","img3":"/images/product_list21.jpg","img4":"/images/product_list22.jpg"},
+        {"title":"家装","naifen":"装饰字画", "tuiche":"装饰摆件","yifu":"电视背景墙","kuzi":"创意家居","img1":"/images/product_list23.jpg","img2":"/images/product_list24.jpg","img3":"/images/product_list25.jpg","img4":"/images/product_list26.jpg"},
+        {"title":"厨具","naifen":"定制衣柜", "tuiche":"门","yifu":"窗","kuzi":"门帘","muyin":"房产","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg","img5":"/images/product_list13.jpg"}
+    ]},
+    {"id":6 , "leibie":[
+        {"title":"手机","naifen":"手机通讯", "tuiche":"运营商","yifu":"手机配件","kuzi":"摄影摄像","img1":"/images/product_list07.jpg","img2":"/images/product_list08.jpg","img3":"/images/product_list09.jpg","img4":"/images/product_list10.jpg"},
+        {"title":"电脑","naifen":"电脑整机", "tuiche":"电脑配件","yifu":"外设产品","kuzi":"游戏设备","muyin":"定制衣柜","img1":"/images/product_list11.jpg","img2":"/images/product_list12.jpg","img3":"/images/product_list13.jpg","img4":"/images/product_list14.jpg"}
+    ]},
+    {"id":7 , "leibie":[
+        {"title":"女装","naifen":"当季热卖", "tuiche":"新品推荐","yifu":"连衣裙","kuzi":"套装","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg"},
+        {"title":"男装","naifen":"真皮皮衣", "tuiche":"棉服","yifu":"羽绒服","kuzi":"POLO衫","muyin":"房产","img1":"/images/product_list19.jpg","img2":"/images/product_list20.jpg","img3":"/images/product_list21.jpg","img4":"/images/product_list22.jpg"},
+        {"title":"童装","naifen":"运动服", "tuiche":"套装","yifu":"卫衣","kuzi":"裤子","img1":"/images/product_list15.jpg","img2":"/images/product_list16.jpg","img3":"/images/product_list17.jpg","img4":"/images/product_list18.jpg"},
+        {"title":"内衣","naifen":"文胸睡衣", "tuiche":"文胸套装","yifu":"背心","kuzi":"裤吊带","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg"}
+    ]},
+    {"id":8 , "leibie":[
+        {"title":"手机","naifen":"手机通讯", "tuiche":"运营商","yifu":"手机配件","kuzi":"摄影摄像","img1":"/images/product_list07.jpg","img2":"/images/product_list08.jpg","img3":"/images/product_list09.jpg","img4":"/images/product_list10.jpg"},
+        {"title":"电脑","naifen":"电脑整机", "tuiche":"电脑配件","yifu":"外设产品","kuzi":"游戏设备","muyin":"定制衣柜","img1":"/images/product_list11.jpg","img2":"/images/product_list12.jpg","img3":"/images/product_list13.jpg","img4":"/images/product_list14.jpg"}
+    ]},
+    {"id":9 , "leibie":[
+        {"title":"女装","naifen":"当季热卖", "tuiche":"新品推荐","yifu":"连衣裙","kuzi":"套装","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg"},
+        {"title":"男装","naifen":"真皮皮衣", "tuiche":"棉服","yifu":"羽绒服","kuzi":"POLO衫","muyin":"房产","img1":"/images/product_list19.jpg","img2":"/images/product_list20.jpg","img3":"/images/product_list21.jpg","img4":"/images/product_list22.jpg"},
+        {"title":"童装","naifen":"运动服", "tuiche":"套装","yifu":"卫衣","kuzi":"裤子","img1":"/images/product_list15.jpg","img2":"/images/product_list16.jpg","img3":"/images/product_list17.jpg","img4":"/images/product_list18.jpg"},
+        {"title":"内衣","naifen":"文胸睡衣", "tuiche":"文胸套装","yifu":"背心","kuzi":"裤吊带","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg"}
+    ]},
+    {"id":10 , "leibie":[
+        {"title":"手机","naifen":"手机通讯", "tuiche":"运营商","yifu":"手机配件","kuzi":"摄影摄像","img1":"/images/product_list07.jpg","img2":"/images/product_list08.jpg","img3":"/images/product_list09.jpg","img4":"/images/product_list10.jpg"},
+        {"title":"电脑","naifen":"电脑整机", "tuiche":"电脑配件","yifu":"外设产品","kuzi":"游戏设备","muyin":"定制衣柜","img1":"/images/product_list11.jpg","img2":"/images/product_list12.jpg","img3":"/images/product_list13.jpg","img4":"/images/product_list14.jpg"}
+    ]},
+    {"id":11 , "leibie":[
+        {"title":"家居","naifen":"水具酒具", "tuiche":"烹饪锅具","yifu":"保鲜盒","kuzi":"炒锅餐具","img1":"/images/product_list15.jpg","img2":"/images/product_list16.jpg","img3":"/images/product_list17.jpg","img4":"/images/product_list18.jpg"},
+        {"title":"家具","naifen":"客厅", "tuiche":"卧室","yifu":"餐厅","kuzi":"书房","img1":"/images/product_list19.jpg","img2":"/images/product_list20.jpg","img3":"/images/product_list21.jpg","img4":"/images/product_list22.jpg"},
+        {"title":"家装","naifen":"装饰字画", "tuiche":"装饰摆件","yifu":"电视背景墙","kuzi":"创意家居","img1":"/images/product_list23.jpg","img2":"/images/product_list24.jpg","img3":"/images/product_list25.jpg","img4":"/images/product_list26.jpg"},
+        {"title":"厨具","naifen":"定制衣柜", "tuiche":"门","yifu":"窗","kuzi":"门帘","muyin":"房产","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg","img5":"/images/product_list13.jpg"}
+    ]},
+    {"id":12 , "leibie":[
+        {"title":"手机","naifen":"手机通讯", "tuiche":"运营商","yifu":"手机配件","kuzi":"摄影摄像","img1":"/images/product_list07.jpg","img2":"/images/product_list08.jpg","img3":"/images/product_list09.jpg","img4":"/images/product_list10.jpg"},
+        {"title":"电脑","naifen":"电脑整机", "tuiche":"电脑配件","yifu":"外设产品","kuzi":"游戏设备","muyin":"定制衣柜","img1":"/images/product_list11.jpg","img2":"/images/product_list12.jpg","img3":"/images/product_list13.jpg","img4":"/images/product_list14.jpg"}
+    ]},
+    {"id":13 , "leibie":[
+        {"title":"家居","naifen":"水具酒具", "tuiche":"烹饪锅具","yifu":"保鲜盒","kuzi":"炒锅餐具","img1":"/images/product_list15.jpg","img2":"/images/product_list16.jpg","img3":"/images/product_list17.jpg","img4":"/images/product_list18.jpg"},
+        {"title":"家具","naifen":"客厅", "tuiche":"卧室","yifu":"餐厅","kuzi":"书房","img1":"/images/product_list19.jpg","img2":"/images/product_list20.jpg","img3":"/images/product_list21.jpg","img4":"/images/product_list22.jpg"},
+        {"title":"家装","naifen":"装饰字画", "tuiche":"装饰摆件","yifu":"电视背景墙","kuzi":"创意家居","img1":"/images/product_list23.jpg","img2":"/images/product_list24.jpg","img3":"/images/product_list25.jpg","img4":"/images/product_list26.jpg"},
+        {"title":"厨具","naifen":"定制衣柜", "tuiche":"门","yifu":"窗","kuzi":"门帘","muyin":"房产","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg","img5":"/images/product_list13.jpg"}
+    ]},
+    {"id":14 , "leibie":[
+        {"title":"女装","naifen":"当季热卖", "tuiche":"新品推荐","yifu":"连衣裙","kuzi":"套装","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg"},
+        {"title":"男装","naifen":"真皮皮衣", "tuiche":"棉服","yifu":"羽绒服","kuzi":"POLO衫","muyin":"房产","img1":"/images/product_list19.jpg","img2":"/images/product_list20.jpg","img3":"/images/product_list21.jpg","img4":"/images/product_list22.jpg"},
+        {"title":"童装","naifen":"运动服", "tuiche":"套装","yifu":"卫衣","kuzi":"裤子","img1":"/images/product_list15.jpg","img2":"/images/product_list16.jpg","img3":"/images/product_list17.jpg","img4":"/images/product_list18.jpg"},
+        {"title":"内衣","naifen":"文胸睡衣", "tuiche":"文胸套装","yifu":"背心","kuzi":"裤吊带","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg"}
+    ]},
+    {"id":15 , "leibie":[
+        {"title":"手机","naifen":"手机通讯", "tuiche":"运营商","yifu":"手机配件","kuzi":"摄影摄像","img1":"/images/product_list07.jpg","img2":"/images/product_list08.jpg","img3":"/images/product_list09.jpg","img4":"/images/product_list10.jpg"},
+        {"title":"电脑","naifen":"电脑整机", "tuiche":"电脑配件","yifu":"外设产品","kuzi":"游戏设备","muyin":"定制衣柜","img1":"/images/product_list11.jpg","img2":"/images/product_list12.jpg","img3":"/images/product_list13.jpg","img4":"/images/product_list14.jpg"}
+    ]},
+    {"id":16 , "leibie":[
+        {"title":"手机","naifen":"手机通讯", "tuiche":"运营商","yifu":"手机配件","kuzi":"摄影摄像","img1":"/images/product_list07.jpg","img2":"/images/product_list08.jpg","img3":"/images/product_list09.jpg","img4":"/images/product_list10.jpg"},
+        {"title":"电脑","naifen":"电脑整机", "tuiche":"电脑配件","yifu":"外设产品","kuzi":"游戏设备","muyin":"定制衣柜","img1":"/images/product_list11.jpg","img2":"/images/product_list12.jpg","img3":"/images/product_list13.jpg","img4":"/images/product_list14.jpg"}
+    ]},
+    {"id":17 , "leibie":[
+        {"title":"家居","naifen":"水具酒具", "tuiche":"烹饪锅具","yifu":"保鲜盒","kuzi":"炒锅餐具","img1":"/images/product_list15.jpg","img2":"/images/product_list16.jpg","img3":"/images/product_list17.jpg","img4":"/images/product_list18.jpg"},
+        {"title":"家具","naifen":"客厅", "tuiche":"卧室","yifu":"餐厅","kuzi":"书房","img1":"/images/product_list19.jpg","img2":"/images/product_list20.jpg","img3":"/images/product_list21.jpg","img4":"/images/product_list22.jpg"},
+        {"title":"家装","naifen":"装饰字画", "tuiche":"装饰摆件","yifu":"电视背景墙","kuzi":"创意家居","img1":"/images/product_list23.jpg","img2":"/images/product_list24.jpg","img3":"/images/product_list25.jpg","img4":"/images/product_list26.jpg"},
+        {"title":"厨具","naifen":"定制衣柜", "tuiche":"门","yifu":"窗","kuzi":"门帘","muyin":"房产","img1":"/images/product_list27.jpg","img2":"/images/product_list28.jpg","img3":"/images/product_list29.jpg","img4":"/images/product_list30.jpg","img5":"/images/product_list13.jpg"}
+    ]},
+    {"id":18 , "leibie":[
+        {"title":"手机","naifen":"手机通讯", "tuiche":"运营商","yifu":"手机配件","kuzi":"摄影摄像","img1":"/images/product_list07.jpg","img2":"/images/product_list08.jpg","img3":"/images/product_list09.jpg","img4":"/images/product_list10.jpg"},
+        {"title":"电脑","naifen":"电脑整机", "tuiche":"电脑配件","yifu":"外设产品","kuzi":"游戏设备","muyin":"定制衣柜","img1":"/images/product_list11.jpg","img2":"/images/product_list12.jpg","img3":"/images/product_list13.jpg","img4":"/images/product_list14.jpg"}
+    ]}
+
+]

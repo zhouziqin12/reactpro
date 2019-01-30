@@ -1,0 +1,57 @@
+.detail_tool_bar{
+    width:100%;
+    height:50px;
+    line-height: 50px;
+    overflow: hidden;
+    position: fixed;
+    bottom:0;
+}
+.detail_tool_bar a{
+    display: block;
+    float: left;
+    height:100%;
+    color: #fff;
+    text-align: center;
+}
+.detail_tool_shangjia,.detail_tool_buy_cart{
+    width:20%;
+}
+.detail_tool_shangjia{
+    border-right: 1px solid #E1E1E1;
+    background: #fff url("../images/icon-cart-chat.png") no-repeat center;
+    background-size: 28px 28px;
+}
+.detail_tool_buy_cart{
+    background: #fff ;
+}
+.detail_tool_icon_cart{
+     display: block;
+     width:28px;
+     height:28px;
+     background: url("../images/icon-cart-shopcart.png") no-repeat center;
+     background-size: 100%;
+     margin:11px auto;
+     position: relative;
+ }
+ .detail_tool_num{
+    display: block;
+    padding: 5px;
+    border-radius: 50%;
+    background: #FF3B30;
+    position: absolute;
+    right: -12px;
+    top: -5px;
+    line-height: 5px;
+    font-style: normal;
+    font-size: 12px;
+}
+.detail_tool_buy,.detail_tool_join{
+    width:30%;
+    font-size: 16px;
+}
+.detail_tool_buy{
+    background: #FF9500;
+}
+.detail_tool_join{
+    background: #ED3036;
+}

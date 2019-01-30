@@ -1,0 +1,242 @@
+body{background: #EFEFF4}
+.addshop_lf{float: left}
+.addshop_rf{float: right}
+.addshop_top{
+    width:100%;
+    height:44px;
+    line-height: 44px;
+    background: #2F2F2F;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    overflow: hidden;
+    position: fixed;
+    top:0;
+    z-index: 10;
+}
+.addshop_top .back{
+    display: block;
+    width:52px;
+    height:44px;
+    background: url(../images/back.png) no-repeat 0 11px;
+    background-size: 15px 20px;
+    margin-left: 15px;
+    color: #fff;
+    padding-left: 20px;
+}
+.addshop_top span{
+    position: relative;
+    left: -30px;
+}
+
+.addshop_swiper_img{
+    margin-top:44px;
+    height:300px;
+}
+.addshop_swiper-slide img{
+    display: block;
+    width:100%;
+    height:300px;
+}
+.addshop_data{
+    padding: 0 10px;
+    background: #fff;
+
+}
+.addshop_introduce{
+    color: #333333;
+    padding-top: 10px;
+}
+.addshop_price{
+    color: #DE0707;
+    font-size: 16px;
+    font-weight:600;
+    margin: 7px 0 3px;
+}
+.addshop_scj{
+    color: #999999;
+    margin-bottom: 10px;
+}
+.addshop_scj span{
+    text-decoration: line-through;
+    font-family: "Microsoft yahei",Arial;
+}
+.addshop_send{
+    border-top:1px solid #E1E1E1;
+    padding:10px 5px;
+    overflow: hidden;
+    color: #8E8E93;
+}
+.addshop_send .lf{
+    background: url("../images/menoy.png") no-repeat 0 center;
+    background-size: 16px 16px;
+    padding-left: 20px;
+}
+.addshop_send .rf{
+    background: url("../images/send_cart.png") no-repeat 0 center;
+    background-size: 20px 16px;
+    padding-left: 25px;
+}
+.addshop_warm_prompt{
+    margin:10px 0;
+    padding:10px;
+    background: #fff;
+    color: #6D6D72;
+    text-align: justify;
+}
+.addshop_img_word{
+    background: #fff;
+    padding: 0 10px;
+    margin-bottom:60px;
+}
+.addshop_img_word p{
+    padding: 10px 0 10px 25px;
+    margin-bottom: 10px;
+    border-bottom:1px solid #E1E1E1;
+    background: url("../images/img_word.png") no-repeat 0 center;
+    background-size: 17px 16px;
+}
+.addshop_img_word img{
+    display: block;
+    width:100%;
+}
+.addshop_tool_bar{
+    width:100%;
+    height:50px;
+    line-height: 50px;
+    overflow: hidden;
+    position: fixed;
+    bottom:0;
+}
+.addshop_tool_bar a{
+    display: block;
+    float: left;
+    height:100%;
+    color: #fff;
+    text-align: center;
+}
+.addshop_shangjia,.buy_cart{
+    width:20%;
+}
+.addshop_shangjia{
+    border-right: 1px solid #E1E1E1;
+    background: #fff url("../images/icon-cart-chat.png") no-repeat center;
+    background-size: 28px 28px;
+}
+.addshop_buy_cart{
+    background: #fff ;
+}
+.addshop_icon_cart{
+    display: block;
+    width:28px;
+    height:28px;
+    background: url("../images/icon-cart-shopcart.png") no-repeat center;
+    background-size: 100%;
+    margin:11px auto;
+    position: relative;
+}
+.addshop_num{
+    display: block;
+    padding: 5px;
+    border-radius: 50%;
+    background: #FF3B30;
+    position: absolute;
+    right: -12px;
+    top: -5px;
+    line-height: 5px;
+    font-style: normal;
+    font-size: 12px;
+}
+.addshop_buy,.addshop_join{
+    width:30%;
+    font-size: 16px;
+}
+.addshop_buy{
+    background: #FF9500;
+}
+.addshop_join{
+    background: #ED3036;
+}
+
+.addshop_affirm{
+    background: #fff;
+    position: fixed;
+    bottom: 0;
+}
+.addshop_affirm_up{
+    width:100%;
+    padding: 15px 25px 15px 10px;
+    border-bottom: 1px solid #DCDCDC;
+    overflow: hidden;
+}
+.addshop_img_box{
+    width:80px;
+    height:80px;
+}
+.addshop_img_box img{
+    display: block;
+    width:80px;
+    height:80px;
+}
+.addshop_affirm_jieshao{
+    padding: 8px 10px;
+    margin-bottom: 2px;
+}
+.addshop_affirm_introduce{
+    height:48px;
+    overflow: hidden;
+}
+.addshop_total{
+    font-family: "Microsoft yahei",Arial;
+    color: #DF1717;
+}
+.addshop_affirm_down{
+    padding: 15px;
+}
+.addshop_norms{
+    margin-bottom:20px;
+}
+.addshop_norms p{
+    margin-bottom: 15px;
+}
+.addshop_norms a{
+    display: inline-block;
+    height:25px;
+    line-height: 25px;
+    text-align: center;
+    padding: 0 10px;
+    border-radius: 5px;
+    background: #ED3036;
+    color: #fff;
+}
+
+.addshop_affirm_num button{
+    width:25px;
+    height:25px;
+    background: #fff;
+    border:1px solid #C8C8C8;
+    outline: none;
+}
+.addshop_affirm_num button:first-child{
+    margin-left: 8px;
+}
+.addshop_affirm_num span{
+    display: inline-block;
+    width:50px;
+    height:25px;
+    background: #fff;
+    border:1px solid #C8C8C8;
+    text-align: center;
+    line-height: 23px;
+    margin:0 1px;
+}
+.addshop_affirm_ok{
+    display: block;
+    height:40px;
+    line-height: 36px;
+    text-align: center;
+    background: #FF3B30;
+    color: #fff;
+}
+
+#img11{width: 25px;height: 25px;position: absolute;right: 10px;}

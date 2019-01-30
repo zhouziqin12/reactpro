@@ -1,0 +1,37 @@
+.list_navbar{
+    text-align: center;
+    background: #DCDCDC;
+    overflow: hidden;
+}
+.list_navbar a{
+    display: block;
+    color: #747474;
+    float: left;
+    width:25%;
+    height:40px;
+    line-height: 40px;
+    border-bottom: 1px solid #BB0200;
+}
+.list_navbar a:not(:last-child){
+    background: url(../images/line-row.jpg) right center no-repeat;
+    background-size: 2%;
+}
+.list_navbar a.active{
+    color: #C40000;
+    border-bottom: 3px solid #C40000;
+}
+.list_navbar_sort .list_navbar_sort_up,.list_navbar_sort .sort_down{
+    width:0;height:0;
+    border:5px solid transparent;
+}
+.list_navbar_sort .list_navbar_sort_up{
+    border-bottom-color:#BD0000;
+}
+.list_navbar_sort .list_navbar_sort_up,.list_navbar_sort .sort_down{
+    width:0;height:0;
+    border:5px solid transparent;
+}
+.list_navbar_sort .list_navbar_sort_down{
+    border-top-color: #A0A0A0;
+    margin-top: 2px;
+}

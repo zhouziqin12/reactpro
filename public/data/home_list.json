@@ -1,0 +1,6 @@
+[
+    {"id": "001" , "img":"images/a.png" ,"liebie":"面部护肤热销排行榜" ,"bizi":"鼻子","yanjing":"眼睛" , "lianbu":"脸部","erduo":"耳朵", "img1":"/images/product_list01.jpg" , "img2":"/images/product_list02.jpg" , "img3":"/images/product_list03.jpg" , "img4":"/images/product_list04.jpg" ,"img5":"/images/product_list17.jpg"},
+    {"id": "002" , "img":"images/d.png" ,"liebie":"洗护护肤热销排行榜" ,"bizi":"毛巾","yanjing":"脸盆" , "lianbu":"杯子","erduo":"洗面奶","img1":"/images/product_list05.jpg" , "img2":"/images/product_list06.jpg" , "img3":"/images/product_list07.jpg" , "img4":"/images/product_list08.jpg" ,"img5":"/images/product_list18.jpg"},
+    {"id": "003" , "img":"images/b.png" ,"liebie":"水果护肤热销排行榜" ,"bizi":"苹果","yanjing":"香蕉" , "lianbu":"橘子","erduo":"西红柿","img1":"/images/product_list09.jpg" , "img2":"/images/product_list10.jpg" , "img3":"/images/product_list11.jpg" , "img4":"/images/product_list12.jpg" ,"img5":"/images/product_list19.jpg"},
+    {"id": "004" , "img":"images/c.png" ,"liebie":"女装护肤热销排行榜" ,"bizi":"长裙","yanjing":"短裙" , "lianbu":"短袖","erduo":"毛衣","img1":"/images/product_list13.jpg" , "img2":"/images/product_list14.jpg" , "img3":"/images/product_list15.jpg" , "img4":"/images/product_list16.jpg" ,"img5":"/images/product_list20.jpg"}
+]

@@ -1,0 +1,33 @@
+.finally_num{
+    padding: 15px 10px;
+    color: #6D6D72;
+}
+.finally{
+    margin-bottom: 80px;
+}
+.finally_num span{
+    color: #DD0707;
+    padding: 0 2px;
+    font-weight: 600;
+}
+.end{
+    background: #fff;
+    padding:12px 15px;
+    border-top: 1px solid #C8C7CC;
+    border-bottom: 1px solid #C8C7CC;
+}
+.end b{
+    font: 14px "Microsoft yahei",Arial;
+    font-weight: 400;
+}
+.total,.youhui,.shifu{
+    height: 20px;
+    line-height: 20px;
+    color: #C8C8CD;
+}
+.shifu{
+    color: #E10707;
+}
+.shifu span{
+    font-weight: 600;
+}

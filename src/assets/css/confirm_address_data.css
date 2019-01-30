@@ -1,0 +1,23 @@
+.address_data{
+    margin: 44px 0 10px;
+    background: #fff;
+    padding: 15px;
+   
+}
+
+.address_link{
+    display: block;
+    background: url("../images/right.png") no-repeat right center;
+    background-size: 7px 12px;
+    padding-right: 12px;
+    color: #000
+}
+
+.consignee_data,.address{
+    height:25px;
+    line-height: 25px;
+    overflow: hidden;
+}
+.consignee_data p.rf,.consignee_data p span,.address span{
+    font-size: 12px;
+}
